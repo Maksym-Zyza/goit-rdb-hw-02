@@ -1,7 +1,7 @@
 ## ER-diagram
 
-![ER-diagram]("./img/ER.png")
+![ER-diagram](./img/ER.png)
 
 ## Database
 
-![Database]("./img/DB.png")
+![Database](./img/DB.png)
