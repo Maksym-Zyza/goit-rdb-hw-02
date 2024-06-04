@@ -12,6 +12,10 @@
 
 ![ER-diagram](./img/NF3.png)
 
+### ER-diagram
+
+![ER-diagram](./img/ER.png)
+
 ## Database
 
 ![Database](./img/DB.png)
